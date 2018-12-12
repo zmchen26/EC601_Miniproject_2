@@ -13,6 +13,7 @@ I choose around 80% pictures from each catogaries as training set and the rest a
 The accuracy turns out to be 85%. 
 
 I have refered to some references:
+
 https://www.wolfib.com/Image-Recognition-Intro-Part-1/
 
 https://www.wolfib.com/Image-Recognition-Intro-Part-2/
