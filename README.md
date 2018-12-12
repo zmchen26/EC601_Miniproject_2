@@ -14,5 +14,7 @@ The accuracy turns out to be 85%.
 
 I have refered to some references:
 https://www.wolfib.com/Image-Recognition-Intro-Part-1/
+
 https://www.wolfib.com/Image-Recognition-Intro-Part-2/
+
 https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/
