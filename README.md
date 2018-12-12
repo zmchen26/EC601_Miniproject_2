@@ -6,7 +6,7 @@ Please run this file in Python3.6 and make sure that you have all the packages b
 - numpy
 - openCV
 
-Before you run, please download a folder called mini2  from my googledrive where I uploaded the required pictures, and save the two files(train.py & pic_process.py) in the folder. 
+Before you run, please download a folder called mini2  from my googledrive where I uploaded the required pictures, and save the two files(train.py & pic_process.py) in the folder. (https://drive.google.com/file/d/1Xsg0t3JgLLb0cTTvpiRlpTSsz_Lg0JB4/view?usp=sharing)
 
 I choose around 80% pictures from each catogaries as training set and the rest as testing set. 
 
